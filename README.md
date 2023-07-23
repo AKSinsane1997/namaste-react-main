@@ -16,5 +16,4 @@ Homepage
 Menu
 <kbd>![Alt text](https://res.cloudinary.com/dwwtffefs/image/upload/v1677495618/foodify/menu_ibpjha.png?raw=true "Menu")</kbd>
 
-Cart
-<kbd>![Alt text](https://res.cloudinary.com/dwwtffefs/image/upload/v1677495618/foodify/cart_lio0de.png?raw=true "Cart")</kbd>
+
